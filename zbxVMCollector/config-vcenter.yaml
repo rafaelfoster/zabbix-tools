@@ -1,0 +1,8 @@
+hostname: 'vcenter.example.com'
+port:     443
+username: 'vsphere.local\administrator' 
+password: 'S3cur3P@ssword' 
+zbx_group: 'GROUP'
+zbx_TemplateVMS: 'VMCollector-VirtualMachines'
+zbx_TemplateHosts: 'VMCollector-Hosts'
+zbx_proxy: 'Zabbix proxy GROUP'
